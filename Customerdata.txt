@@ -1,0 +1,4 @@
+=========== CUSTOMER DATA =========
+First Name,Last Name, Cell Number,Mode of payment,Total Bill
+Madiha,Aslam,97273642,Cash
+hIRA,ALI,6765775,TRR555454545

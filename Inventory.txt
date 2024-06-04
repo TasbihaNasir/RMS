@@ -1,0 +1,20 @@
+Flour,11,50,Y
+Sugar,0,40,N
+Salt,18,30,Y
+Olive Oil,17,200,Y
+Chicken Thighs,8,250,Y
+Beef,18,300,Y
+Onions,14,60,Y
+Potatoes,10,40,Y
+Lettuce,2,80,Y
+Cheese,1,150,Y
+Cucumbers,6,50,Y
+Carrots,5,40,Y
+Peppers,4,70,Y
+Lemons,6,30,Y
+Garlic,3,120,Y
+Parsley,1,25,Y
+Basil,1,30,Y
+Vinegar,17,50,Y
+Soy Sauce,18,80,Y
+Worcestershire Sauce,16,100,Y
